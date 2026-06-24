@@ -1,3 +1,5 @@
+site_name: My Docs Project
+
 theme:
   name: material
 
@@ -14,4 +16,4 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
       primary: black
-      accent: lime
+      accent: limeы
